@@ -1,5 +1,7 @@
 
 # EX 5E Minimum Spanning Tree -Boruvka's Algorithm
+
+## DATE: 19-09-2026
  
 ## AIM:
 To write a Java program to for given constraints.
@@ -22,6 +24,9 @@ Find the MST using Boruvka's Algorithm for a weighted undirected graph.
 
 ## Program:
 ```
+Developed by: ibrahim fedah s
+Register Number: 212223240056
+
 import java.util.*;
 
 public class BoruvkaMST {
