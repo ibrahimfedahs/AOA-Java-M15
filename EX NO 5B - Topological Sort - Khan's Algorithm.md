@@ -1,6 +1,8 @@
 
 # EX 5B Topological Sort - Khan's Algorithm
 
+## DATE: 19-09-2026
+
 ## AIM:
 To write a Java program to for given constraints.
 Problem Description:
@@ -46,6 +48,9 @@ If all tasks are processed, print the task order; otherwise, print “Release ca
 
 ## Program:
 ```
+Developed by: ibrahim fedah s
+Register Number: 212223240056
+
 import java.util.*;
 
 public class prog{
