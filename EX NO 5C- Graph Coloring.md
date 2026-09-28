@@ -1,6 +1,8 @@
 
 # EX 5C Graph coloring
 
+## DATE: 19-09-2026
+
 ## AIM:
 To write a Java program to for given constraints.
 Problem Description:
@@ -38,6 +40,9 @@ Otherwise, print "NO".
 
 ## Program:
 ```
+Developed by: ibrahim fedah s
+Register Number: 212223240056
+
 import java.util.*;
 
 public class prog {
